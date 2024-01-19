@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6a720a9b553f4e64aa3b9534ed9e7a4b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lightning Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 515fbf9ea8e8ada478d8ad3cf3e99ecc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
