@@ -28,15 +28,18 @@ Revolve(360) is a 2D Unity game where the player maneuvers in a circular path, e
 
 - Score is based on the number of coins collected.
 
-## Contributing
-
-Feel free to contribute to the project by opening issues or creating pull requests. Follow the guidelines outlined in [CONTRIBUTING.md].
-
 ## Screenshots
 
 ![Gameplay Screenshot 1](screenshots/home.png)
-![Gameplay Screenshot 2](screenshots/g1.png)
+
 ![Gameplay Screenshot 2](screenshots/g2.png)
+
+![Gameplay Screenshot 2](screenshots/g1.png)
+
+
+## Contributing
+
+Feel free to contribute to the project by opening issues or creating pull requests. Follow the guidelines outlined in [CONTRIBUTING.md].
 
 ## License
 
